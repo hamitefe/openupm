@@ -1,0 +1,16 @@
+name: com.fraktal.design-patterns
+displayName: Fraktal Framework
+description: Modular dependency-injection framework for Unity.
+repoUrl: https://github.com/fraktal-studio/design-patterns
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: ''
+topics:
+  - utilities
+hunter: hamitefe
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1754921254145
