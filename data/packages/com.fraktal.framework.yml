@@ -1,0 +1,19 @@
+name: com.fraktal.framework
+displayName: Fraktal Framework
+description: Modular dependency-injection framework for Unity.
+repoUrl: https://github.com/fraktal-studio/fraktal-framework
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: ''
+topics:
+  - data-management
+  - editor-enhancement
+  - frameworks
+  - utilities
+hunter: hamitefe
+gitTagPrefix: 1.0.0
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1754920940327
